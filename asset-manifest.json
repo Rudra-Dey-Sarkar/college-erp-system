@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/college-erp-system/static/css/main.b51e734f.css",
+    "main.js": "/college-erp-system/static/js/main.5476c795.js",
+    "static/js/453.b402a80d.chunk.js": "/college-erp-system/static/js/453.b402a80d.chunk.js",
+    "static/media/bbacard.jpeg": "/college-erp-system/static/media/bbacard.69b77fec9b9f6d49f987.jpeg",
+    "static/media/homepic1.jpeg": "/college-erp-system/static/media/homepic1.2cea9f8d7984997bd16b.jpeg",
+    "static/media/bcacard.jpeg": "/college-erp-system/static/media/bcacard.d970386e165ae6ae4b39.jpeg",
+    "static/media/collegelogo.png": "/college-erp-system/static/media/collegelogo.57b5b901049222336e60.png",
+    "static/media/btech.jpeg": "/college-erp-system/static/media/btech.10167aead0d622c0e09d.jpeg",
+    "static/media/ce-dep.jpeg": "/college-erp-system/static/media/ce-dep.784132870debfa081bfe.jpeg",
+    "static/media/tppic.jpeg": "/college-erp-system/static/media/tppic.3bb5a87f74cbb027382e.jpeg",
+    "static/media/ece-dep.jpeg": "/college-erp-system/static/media/ece-dep.a542ca271a1b1b02cff9.jpeg",
+    "static/media/bba-dep.jpeg": "/college-erp-system/static/media/bba-dep.ef8e0a5a4a3052fb8c7e.jpeg",
+    "static/media/homepic5.jpeg": "/college-erp-system/static/media/homepic5.261689fd41aa92aed239.jpeg",
+    "static/media/me-dep.jpeg": "/college-erp-system/static/media/me-dep.b0ea20c7429b0cfe58d3.jpeg",
+    "static/media/homepic3.jpeg": "/college-erp-system/static/media/homepic3.8db79f895c53d4636be1.jpeg",
+    "static/media/cse-dep.jpeg": "/college-erp-system/static/media/cse-dep.2f63bb44008f0c0a0ecb.jpeg",
+    "static/media/bca-dep.jpeg": "/college-erp-system/static/media/bca-dep.2bea101c393af37222bf.jpeg",
+    "static/media/homepic6.jpeg": "/college-erp-system/static/media/homepic6.b241a309dec9abe5fd7c.jpeg",
+    "static/media/homepic2.jpeg": "/college-erp-system/static/media/homepic2.2ad5fcf3c016eed0786d.jpeg",
+    "static/media/ee-dep.jpeg": "/college-erp-system/static/media/ee-dep.12040ebe2bde56b59384.jpeg",
+    "static/media/homepic7.jpeg": "/college-erp-system/static/media/homepic7.db433de124e28194732d.jpeg",
+    "static/media/homepic4.jpeg": "/college-erp-system/static/media/homepic4.4faeea3d4026ca6f9de7.jpeg",
+    "index.html": "/college-erp-system/index.html",
+    "main.b51e734f.css.map": "/college-erp-system/static/css/main.b51e734f.css.map",
+    "main.5476c795.js.map": "/college-erp-system/static/js/main.5476c795.js.map",
+    "453.b402a80d.chunk.js.map": "/college-erp-system/static/js/453.b402a80d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b51e734f.css",
+    "static/js/main.5476c795.js"
+  ]
+}
