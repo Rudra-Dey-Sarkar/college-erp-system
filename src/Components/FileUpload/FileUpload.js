@@ -1,4 +1,5 @@
 import React from 'react';
+import "./FileUpload.css";
 
 export default function () {
   return (
