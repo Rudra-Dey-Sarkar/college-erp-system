@@ -23,3 +23,14 @@ font-weight:600;
     margin: auto;
     margin-right: 30px;
 }
+
+@media(max-width:950px){
+    .tp-items{
+        display: inline-block;
+        text-align: center;
+        width: fit-content;
+    }
+    .tp-items img{
+        width: 75vw;
+    }
+}
