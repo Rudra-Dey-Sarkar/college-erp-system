@@ -1,0 +1,25 @@
+#tp{
+    padding: 5vh;
+}
+#tp h2{
+text-decoration: underline;
+font-weight:600;
+}
+
+.tp-items{
+    width: 55vw;
+    margin: auto;
+}
+
+.tp-items img{
+    width: 30vw;
+}
+
+.tp-items{
+    display: flex;
+}
+
+.tp-items p{
+    margin: auto;
+    margin-right: 30px;
+}
